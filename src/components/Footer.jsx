@@ -23,13 +23,13 @@ export default function Footer() {
     { name: 'Skills', href: '#skills' },
     { name: 'Contact', href: '#contact' },
   ];
-  
+
 
   const socialLinks = [
     { icon: FiInstagram, href: 'https://www.instagram.com/hasibkhan2159' },
     { icon: FaWhatsapp, href: 'https://wa.me/8801892164028' },
     { icon: FiPhone, href: 'tel:+8801892164028' },
-    { icon: FiMail, href: 'mailto:nasimislamspsc@gmail.com' },
+    { icon: FiMail, href: 'mailto:hasibulhasanopu6@gmail.com' },
   ];
 
   // GSAP Scroll Animations
@@ -141,7 +141,7 @@ export default function Footer() {
               href="mailto:nasimislam.business@gmail.com"
               className="inline-block text-xs sm:text-sm font-medium text-slate-600 dark:text-slate-400 hover:text-orange-500 dark:hover:text-orange-500 transition-colors duration-200"
             >
-              nasimislamspsc@gmail.com
+              hasibulhasanopu6@gmail.com
             </a>
           </div>
         </div>
@@ -149,7 +149,7 @@ export default function Footer() {
         {/* Bottom Copyright Divider */}
         <div className="border-t border-slate-200/60 dark:border-neutral-800/80 pt-8 text-center">
           <p className="text-xs text-slate-500 dark:text-slate-500 font-medium">
-            © {new Date().getFullYear()} Md Nasim Islam. All rights reserved.
+            © {new Date().getFullYear()} Hasib Khan. All rights reserved.
           </p>
         </div>
       </div>

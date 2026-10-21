@@ -165,10 +165,10 @@ export default function Contact() {
                   EMAIL
                 </p>
                 <a
-                  href="mailto:nasimislamspsc@gmail.com"
+                  href="mailto:hasibulhasanopu6@gmail.com"
                   className="text-sm font-bold text-slate-900 dark:text-white hover:text-orange-500 dark:hover:text-orange-500 transition-colors"
                 >
-                  nasimislamspsc@gmail.com
+                  hasibulhasanopu6@gmail.com
                 </a>
               </div>
             </div>
