@@ -79,7 +79,7 @@ export default function Footer() {
                 MNI
               </motion.div>
               <h3 className="text-lg font-bold tracking-tight text-slate-900 dark:text-white">
-                Md Nasim Islam
+                Hasib Khan
               </h3>
             </div>
 
