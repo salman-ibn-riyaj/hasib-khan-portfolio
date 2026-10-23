@@ -104,7 +104,7 @@ export default function About() {
 
           {/* Paragraphs */}
           <p className="text-base text-slate-600 dark:text-slate-300 leading-relaxed">
-            I'm <strong className="font-semibold text-slate-900 dark:text-white">Md Nasim Islam</strong>, a Sales and Business Development Expert. I help businesses grow by finding, opening and closing opportunities — from generating qualified leads and acquiring new clients to building long-term relationships and strategic partnerships.
+            I'm <strong className="font-semibold text-slate-900 dark:text-white">Hasib Khan</strong>, a Sales and Business Development Expert. I help businesses grow by finding, opening and closing opportunities — from generating qualified leads and acquiring new clients to building long-term relationships and strategic partnerships.
           </p>
 
           <p className="text-base text-slate-600 dark:text-slate-300 leading-relaxed">
