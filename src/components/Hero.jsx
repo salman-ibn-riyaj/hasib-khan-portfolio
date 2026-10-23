@@ -78,7 +78,7 @@ export default function Hero() {
 
                     {/* Bio Text */}
                     <p className="max-w-xl text-base sm:text-lg text-slate-600 dark:text-slate-300 leading-relaxed">
-                        I'm <strong className="font-semibold text-slate-900 dark:text-white">Md Nasim Islam</strong>, a Sales and Business Development Expert focused on generating opportunities, building strong client relationships, developing strategic partnerships, and driving sustainable business growth.
+                        I'm <strong className="font-semibold text-slate-900 dark:text-white">Hasib Khan</strong>, a Sales and Business Development Expert focused on generating opportunities, building strong client relationships, developing strategic partnerships, and driving sustainable business growth.
                     </p>
 
                     {/* Action Buttons */}
